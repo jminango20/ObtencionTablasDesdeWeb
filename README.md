@@ -1,0 +1,2 @@
+# ObtencionTablasDesdeWeb
+# Obtención Tablas de la Web  Este tutorial muestra la forma de obtención de tablas de sitios web. Para este objetivo realizaremos el análisis de datos de la Copa del Mundo para lo cuál tendremos como base de obtención de los datos la página web de Wikipedia en inglés, puesto que aqui aparecen la tabla de interés que vamos a trabajar.  Para accesar a la página web acceda al siguiente enlace: [Copa Mundo ](https://en.wikipedia.org/wiki/FIFA_World_Cup)
